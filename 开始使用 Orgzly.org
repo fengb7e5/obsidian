@@ -89,3 +89,8 @@ DEADLINE: <2015-02-20 Fri>
 
 可将笔记本与设备存储，SD 卡或 Dropbox 上的一个目录同步。
 
+* jidjb
+
+sisishdbdskd
+
+
